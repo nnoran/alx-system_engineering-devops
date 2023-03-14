@@ -1,0 +1,2 @@
+#!/bin/bsh
+grep -c  -i "bin" 15-countthatword 
